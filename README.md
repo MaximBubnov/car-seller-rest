@@ -10,6 +10,7 @@ Car Seller (Simple RESTFull API)
      <li>Hibernate, MySQL</li>
      <li>Bootstrap, Vue.js</li>
      <li>Google oAuth2</li>
+     <li>Webpack, Gradle</li>
    </ul>
    <hr>
    
